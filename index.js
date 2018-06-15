@@ -8,7 +8,11 @@ return newArrayMusiciansAndInstruments;
 }
 
 function johnLennonFacts(arrayFacts){
-  while (arrayFacts.length>0){
-    
+  var l=arrayFacts.length;
+  
+  while (l>0){
+   arrayFacts[l].push('!!!'); 
+   --l;
   }
+  return arrayFacts
 }
