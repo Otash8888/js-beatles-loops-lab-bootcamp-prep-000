@@ -16,6 +16,10 @@ function johnLennonFacts (arrayFacts) {
   }
   return arrayFacts
 }
-function iLoveTheBeatles(){
+function iLoveTheBeatles(n){
+  var crazyLove=[];
+  do {
+    crazyLove[n]=
+  } while(true)
   
 }
