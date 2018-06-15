@@ -19,7 +19,7 @@ function johnLennonFacts (arrayFacts) {
 function iLoveTheBeatles(n){
   var crazyLove=[];
   do {
-    crazyLove[n]=
+    crazyLove[n]="I love the Beatles!"
   } while(true)
   
 }
