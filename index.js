@@ -8,7 +8,7 @@ return newArrayMusiciansAndInstruments;
 }
 
 function johnLennonFacts(arrayFacts){
-  while (true){
+  while (arrayFacts.length>0){
     
   }
 }
