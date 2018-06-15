@@ -7,7 +7,7 @@ newArrayMusiciansAndInstruments[i]=`${arrMusicians[i]} plays ${arrInstruments[i]
 return newArrayMusiciansAndInstruments;
 }
 
-function johnLennonFacts(arrayFacts){
+function johnLennonFacts (arrayFacts) {
   var l=arrayFacts.length;
   
   while (l>0){
