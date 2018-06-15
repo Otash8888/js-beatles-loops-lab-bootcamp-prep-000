@@ -9,9 +9,9 @@ return newArrayMusiciansAndInstruments;
 
 function johnLennonFacts (arrayFacts) {
   var l=arrayFacts.length;
-  
+  var expl='!!!'
   while (l>0){
-   arrayFacts[l-1]=`${arrayFacts[l-1]} + '!!!'`; 
+   arrayFacts[l-1]=`${arrayFacts[l-1]} + ${expl}`; 
    --l;
   }
   return arrayFacts
